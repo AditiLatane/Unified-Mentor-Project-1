@@ -25,4 +25,4 @@ This project aims to analyze YouTube channel performance by leveraging extensive
    1) Prediction using Linear Regression
    2) RMSE =  0.0004752978199724935
 
-Next Project : https://github.com/AditiLatane/Unified-Mentor-Task-2
+🔗 **Next Project:** [Unified-Mentor-Task-2](https://github.com/AditiLatane/Unified-Mentor-Task-2)
