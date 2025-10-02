@@ -1,4 +1,4 @@
-## Unified-Mentor-Task-1
+## Unified-Mentor-Project-1
 # Major Machine Learning Project: Unlocking YouTube Channel Performance Secrets Analysis
 
 This project aims to analyze YouTube channel performance by leveraging extensive metrics and using Machine Learning techniques to uncover patterns, trends, and actionable insights. We'll focus on Exploratory Data Analysis (EDA), data visualization, and developing a predictive model to estimate revenue or subscribers based on the provided dataset.
